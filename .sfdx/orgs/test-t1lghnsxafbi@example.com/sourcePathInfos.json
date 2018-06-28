@@ -1,0 +1,322 @@
+[
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169088762,
+            "changeTime": 1530169088762,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169088762,
+            "changeTime": 1530169088762,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530171210820,
+            "changeTime": 1530171210820,
+            "contentHash": "5f82321c4c29ef78733abe08833b3d1b6430a068"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169088762,
+            "changeTime": 1530169088762,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530169269610,
+            "changeTime": 1530169269610,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530170210276,
+            "changeTime": 1530170210276,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530170210275,
+            "changeTime": 1530170210275,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1530170210268,
+            "changeTime": 1530170210268,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1530170210269,
+            "changeTime": 1530170210269,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530170210273,
+            "changeTime": 1530170210273,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530170210276,
+            "changeTime": 1530170210276,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530170210274,
+            "changeTime": 1530170210274,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530170210270,
+            "changeTime": 1530170210270,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530170210272,
+            "changeTime": 1530170210272,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530170210274,
+            "changeTime": 1530170210274,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1324,
+            "modifiedTime": 1530171210820,
+            "changeTime": 1530171210820,
+            "contentHash": "23096f695b0e4e0e1de1c41607093e2eba6956bf"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1530171210820,
+            "changeTime": 1530171210820,
+            "contentHash": "02bc825e83e87a71c934353ba7df289082971aa5"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4656,
+            "modifiedTime": 1530171210836,
+            "changeTime": 1530171210836,
+            "contentHash": "ce778873484c0c0b2495cab1054c46dcae9f187d"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4318,
+            "modifiedTime": 1530171210836,
+            "changeTime": 1530171210836,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4318,
+            "modifiedTime": 1530171210836,
+            "changeTime": 1530171210836,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17735,
+            "modifiedTime": 1530171210836,
+            "changeTime": 1530171210836,
+            "contentHash": "577faf2c38ad0facaee74f2e5148421a730e12ff"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530171210820,
+            "changeTime": 1530171210820,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530171210820,
+            "changeTime": 1530171210820,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source\\LightningWorkshop\\Source\\salesforce dx\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530171210836,
+            "changeTime": 1530171210836,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
